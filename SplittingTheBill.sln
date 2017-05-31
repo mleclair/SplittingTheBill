@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplittingTheBill", "SplittingTheBill\SplittingTheBill.csproj", "{1C9C1492-9F65-4D75-A05C-C04F986A314C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{3C9F049D-F0B9-460C-A76D-B78515E30F8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C9C1492-9F65-4D75-A05C-C04F986A314C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C9C1492-9F65-4D75-A05C-C04F986A314C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C9C1492-9F65-4D75-A05C-C04F986A314C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C9C1492-9F65-4D75-A05C-C04F986A314C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C9F049D-F0B9-460C-A76D-B78515E30F8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C9F049D-F0B9-460C-A76D-B78515E30F8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C9F049D-F0B9-460C-A76D-B78515E30F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C9F049D-F0B9-460C-A76D-B78515E30F8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
